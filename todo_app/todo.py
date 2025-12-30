@@ -1,2 +1,3 @@
-tasks = None   # BUG
+tasks = []
+
 
